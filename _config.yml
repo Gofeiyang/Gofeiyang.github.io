@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "webhead.jpg" # e.g. "avatar.jpg", "my-avatar.png"
+  avatar           : "profile.png"
   name             : "Feiyang(Frank)  Yu"
   pronouns         : # example: "she/her"  
   bio              : "An enthusiastic learner and a passionate researcher"
