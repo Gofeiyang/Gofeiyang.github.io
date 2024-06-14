@@ -12,7 +12,7 @@ redirect_from:
 
 <h2 style="color: #2E86C1;">Feiyang Yu</h2>
 
-<p>Welcome to my personal website! I am <strong>Feiyang Yu</strong>, a passionate software engineer with a strong background in Electrical and Computer Engineering. I graduated with a <em>Master of Science in ECE</em> from Duke University and a <em>Bachelor of Science in Computer Science</em> from Hangzhou University of Electronic Science and Technology, where I graduated with honors.</p>
+<p>Welcome to my personal website! I am <strong>Feiyang Yu</strong>, a passionate software engineer with a strong background in Electrical and Computer Engineering. I graduated with a <em>Master of Engineering in ECE</em> from Duke University and a <em>Bachelor of Science in Computer Science</em> from Hangzhou Dianzi University, where I graduated with honors.</p>
 
 <hr>
 
@@ -20,6 +20,7 @@ redirect_from:
 
 <h4>Lattice Semiconductor</h4>
 <em>Software Architecture Engineer</em>
+<img src="images/logo_lattice.png" alt="Lattice Semiconductor" style="width:200px;"/>
 <ul>
     <li>Enhanced FPGA chip performance.</li>
     <li>Developed Python scripts for data collection and processing.</li>
@@ -28,6 +29,7 @@ redirect_from:
 
 <h4>Zhejiang Yiliu Network Technology Co.</h4>
 <em>Software Engineer</em>
+<img src="images/phr66.jpg" alt="ph66" style="width:200px;"/>
 <ul>
     <li>Developed a license plate recognition system.</li>
     <li>Optimized an e-commerce platform to improve performance and user experience.</li>
