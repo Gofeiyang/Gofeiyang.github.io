@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant for Duke ECE550K:Computer Systems and Engineering"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Duke University, ECE Department"
+date: 2023-08-15
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Conducted help sessions to reinforce lecture concepts, such as memory management, concurrency, hardware interface. Led lab sessions and provided hands-on experience with HDLs and simulation tools.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+---
+Here is a demo for final project: Tetris Game. Start from Designing a MIPS CPU core in Verilog, incluing Arithmetic logic unit, Program counter, Register file, etc. Acorrding to the MIPS ISA, design the Tetris Game instructions and store the instruction into the data memory. Implemented the CPU with an FPGA development board and running Tetris code on it.

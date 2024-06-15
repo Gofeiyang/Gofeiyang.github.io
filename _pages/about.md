@@ -17,6 +17,6 @@ redirect_from:
     </p>
 </div>
 
-
+<hr>
 
 *You can click on the top navigation bar to browse the sections you are interested in. This site is continuously updated with my latest projects and professional experiences. Stay tuned!*
