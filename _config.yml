@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "feiyang-frank-yu-0105b121a"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -243,7 +243,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  _publications
+  #_publications
   - scope:
       path: ""
       type: publications
