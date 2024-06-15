@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Feiyang(Frank)  Yu"
-description              : &description "An enthusiastic learner and a passionate researcher"
+description              : &description "Life is a box of chocolates, you never know what you're gonna get."
 url                      : https://gofeiyang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -27,7 +27,7 @@ author:
   bio              : "Life is a box of chocolates, you never know what you're gonna get."
   location         : "Durham, NC"
   employer         : "Duke University"
-  uri              : # URL
+  uri              : "https://gofeiyang.github.io" # Used for author profile link
   email            : "feiyang.yu@duke.edu" 
 
   # Academic websites
