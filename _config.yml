@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Welcome to Feiyang's Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Feiyang(Frank)  Yu"
 description              : &description "An enthusiastic learner and a passionate researcher"
@@ -21,10 +21,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "snow_mountain.png"
   name             : "Feiyang(Frank)  Yu"
   pronouns         : # example: "she/her"  
-  bio              : "An enthusiastic learner and a passionate researcher"
+  bio              : "Life is a box of chocolates, you never know what you're gonna get."
   location         : "Durham, NC"
   employer         : "Duke University"
   uri              : # URL
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "feiyang-frank-yu-0105b121a"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -243,16 +243,16 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
-  # - scope:
-  #     path: ""
-  #     type: publications
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     share: true
-  #     comments: true
-  # _portfolio
+  _publications
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  _portfolio
   - scope:
       path: ""
       type: portfolio
