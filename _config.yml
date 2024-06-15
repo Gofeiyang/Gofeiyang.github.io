@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "snow_mountain.png"
+  avatar           : "snow_mountain.jpg"
   name             : "Feiyang(Frank)  Yu"
   pronouns         : # example: "she/her"  
   bio              : "Life is a box of chocolates, you never know what you're gonna get."
