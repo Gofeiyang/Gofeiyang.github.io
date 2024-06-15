@@ -1,94 +1,79 @@
 ---
 permalink: /
-title: "Welcome to my personal website!"
+title: "Welcome to Feiyang Yu's Portfolio"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-
 # About Me
 
-<h2 style="color: #2E86C1;">Feiyang Yu</h2>
+<h2 style="color: #2E86C1; font-size: 28px; margin-bottom: 20px;">Feiyang Yu</h2>
 
-<p>Welcome to my personal website! I am <strong>Feiyang Yu</strong>, a passionate software engineer with a strong background in Electrical and Computer Engineering. I graduated with a <em>Master of Engineering in ECE</em> from Duke University and a <em>Bachelor of Science in Computer Science</em> from Hangzhou Dianzi University, where I graduated with honors.</p>
-
-<hr>
-
-<h3 style="color: #28B463;">Professional Experience</h3>
-
-<h4>Lattice Semiconductor</h4>
-<em>Software Architecture Engineer</em>
-<img src="images/logo_lattice.png" alt="Lattice Semiconductor" style="width:200px;"/>
-<ul>
-    <li>Enhanced FPGA chip performance.</li>
-    <li>Developed Python scripts for data collection and processing.</li>
-    <li>Contributed to the design of the next-generation FPGA chip (Avant), focusing on critical path and timing analysis, resolving routing and modeling issues, and achieving a 12% increase in chip frequency.</li>
-</ul>
-
-<h4>Zhejiang Yiliu Network Technology Co.</h4>
-<em>Software Engineer</em>
-<img src="images/phr66.jpg" alt="ph66" style="width:200px;"/>
-<ul>
-    <li>Developed a license plate recognition system.</li>
-    <li>Optimized an e-commerce platform to improve performance and user experience.</li>
-</ul>
-
-<h4>Enterprise Storage Architecture Program (ECE566)</h4>
-<ul>
-    <li>Implemented RAID systems using BUSE, including RAID0 and RAID4 drivers.</li>
-    <li>Conducted performance analysis to optimize storage solutions.</li>
-</ul>
+Welcome to my personal website! I am **Feiyang Yu**, a passionate software engineer with a strong foundation in Electrical and Computer Engineering. I earned my **Master of Engineering in ECE** from Duke University and a **Bachelor of Science in Computer Science** from Hangzhou Dianzi University, graduating with honors.
 
 <hr>
 
-<h3 style="color: #28B463;">Academic Achievements</h3>
+## Professional Experience
 
-<h4>Duke University</h4>
-<em>Master of Science in Electrical and Computer Engineering (ECE)</em>
-<ul>
-    <li>Teaching Assistant for ECE550K.</li>
-    <li>Led a team in a Live AI Hackathon.</li>
-</ul>
+### Lattice Semiconductor
+**Software Architecture Engineer**
+![Lattice Semiconductor Logo](images/logo_lattice.png "Lattice Semiconductor")
+- Enhanced FPGA chip performance.
+- Developed Python scripts for data collection and processing.
+- Advanced the design of the next-generation FPGA chip (Avant), focusing on critical path and timing analysis, resolving routing and modeling issues, achieving a 12% increase in chip frequency.
 
-<h4>Hangzhou University of Electronic Science and Technology</h4>
-<em>Bachelor of Science in Computer Science</em>
-<ul>
-    <li>Graduated with honors.</li>
-    <li>Developed a CNN-based classification method for brain signal analysis.</li>
-</ul>
+### Zhejiang Yiliu Network Technology Co.
+**Software Engineer**
+![Company Image](images/ph66.jpg "Company")
+- Engineered a license plate recognition system.
+- Optimized an e-commerce platform, enhancing performance and user experience.
 
-<hr>
-
-<h3 style="color: #28B463;">Technical Skills</h3>
-
-<ul>
-    <li><strong>Languages:</strong> C/C++, Java, Python, Verilog, SQL, Tcl, TypeScript, PHP, MATLAB, CUDA</li>
-    <li><strong>Tools & Frameworks:</strong> Linux, Git, GDB, PyCharm, PyTorch, AWS, React, Django, Docker, Valgrind, Gradle, Maven</li>
-</ul>
+### Enterprise Storage Architecture Program (ECE566)
+- Implemented RAID systems using BUSE, including RAID0 and RAID4 drivers.
+- Conducted performance analysis to optimize storage solutions.
 
 <hr>
 
-<h3 style="color: #28B463;">Projects</h3>
+## Academic Achievements
 
-<ul>
-    <li><strong>SSH Filesystem:</strong> Refined and enhanced the functionality for secure file transfers.</li>
-    <li><strong>RAID Implementation:</strong> Developed RAID0 and RAID4 drivers and conducted extensive performance analysis.</li>
-    <li><strong>Brain Signal Analysis:</strong> Implemented a CNN-based method for classifying brain signals.</li>
-</ul>
+### Duke University
+**Master of Science in Electrical and Computer Engineering (ECE)**
+- Served as a Teaching Assistant for ECE550K.
+- Led a team in a Live AI Hackathon.
 
-<hr>
-
-<h3 style="color: #28B463;">Contact Me</h3>
-
-<p><strong>Phone:</strong> 919-638-9824</p>
-<p><strong>Email:</strong> <a href="mailto:feiyang.yu@duke.edu">feiyang.yu@duke.edu</a></p>
-<p><strong>GitHub:</strong> <a href="https://github.com/Gofeiyang">Gofeiyang</a></p>
-<p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/feiyang-frank-yu-0105b121a/">Feiyang Yu</a></p>
-
-<p>Thank you for visiting my website. Feel free to explore my projects and get in touch if you'd like to collaborate!</p>
+### Hangzhou University of Electronic Science and Technology
+**Bachelor of Science in Computer Science**
+- Graduated with honors.
+- Developed a CNN-based classification method for brain signal analysis.
 
 <hr>
 
-<p><em>This site is continuously updated with my latest projects and professional experiences. Stay tuned!</em></p>
+## Technical Skills
+
+- **Languages:** C/C++, Java, Python, Verilog, SQL, Tcl, TypeScript, PHP, MATLAB, CUDA
+- **Tools & Frameworks:** Linux, Git, GDB, PyCharm, PyTorch, AWS, React, Django, Docker, Valgrind, Gradle, Maven
+
+<hr>
+
+## Projects
+
+- **SSH Filesystem:** Enhanced functionality for secure file transfers.
+- **RAID Implementation:** Developed RAID0 and RAID4 drivers, conducted performance analysis.
+- **Brain Signal Analysis:** Implemented a CNN-based method for classifying brain signals.
+
+<hr>
+
+## Contact Me
+
+**Phone:** 919-638-9824  
+**Email:** [feiyang.yu@duke.edu](mailto:feiyang.yu@duke.edu)  
+**GitHub:** [Gofeiyang](https://github.com/Gofeiyang)  
+**LinkedIn:** [Feiyang Yu](https://www.linkedin.com/in/feiyang-frank-yu-0105b121a/)
+
+Thank you for visiting my website. Feel free to explore my projects and reach out if you'd like to collaborate!
+
+<hr>
+
+*This site is continuously updated with my latest projects and professional experiences. Stay tuned!*
