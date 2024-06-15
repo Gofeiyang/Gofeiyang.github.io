@@ -32,24 +32,30 @@ redirect_from:
 </div>
 
 <hr>
-<div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #f4f4f9; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-top: 20px; display: flex; align-items: center;">
-    <div style="flex: 1;">
-        <h2 style="color: #2E86C1; font-size: 24px; font-weight: 600;">Professional Experience</h2>
-        <p style="font-size: 16px; line-height: 1.8; color: #333;">
-            <strong>Software Architecture Engineer</strong><br>
-            <em>Lattice Semiconductor</em><br>
-            Contributions include enhancing FPGA chip performance, developing Python scripts for data collection and processing, and participating in the design of the next-generation FPGA chip, focusing on critical path and timing analysis.
-        </p>
-        <p style="font-size: 16px; line-height: 1.8; color: #333;">
-            <strong>Software Engineer</strong><br>
-            <em>Zhejiang Yiliu Network Technology Co.</em><br>
-            Developed a license plate recognition system and optimized an e-commerce platform to improve performance and user experience.
-        </p>
+
+<div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #f4f4f9; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); display: flex; flex-direction: column; align-items: flex-start;">
+    <h2 style="color: #2E86C1; font-size: 24px; font-weight: 600;">Professional Experience</h2>
+
+    <div style="display: flex; align-items: center; margin-top: 20px; width: 100%;">
+        <div style="flex-grow: 1;">
+            <h3 style="margin: 0; color: #333; font-size: 20px; font-weight: 700;">Lattice Semiconductor</h3>
+            <p style="font-size: 16px; color: #555; margin: 2px 0;">Software Architecture Engineer</p>
+            <p style="font-size: 16px; color: #666;">Contributions include enhancing FPGA chip performance, developing Python scripts for data collection and processing, and participating in the design of the next-generation FPGA chip, focusing on critical path and timing analysis.</p>
+        </div>
+        <img src="images/logo_lattice.png" alt="Lattice Semiconductor Logo" style="width: 100px; margin-left: 20px;">
     </div>
-    <div style="flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center;">
-        <img src="images/logo_lattice.png" alt="Lattice Semiconductor Logo" style="width: 150px; margin-bottom: 20px;">
-        <img src="images/ph66.jpg" alt="Yiliu Tech Logo" style="width: 150px;">
+
+    <div style="display: flex; align-items: center; margin-top: 20px; width: 100%;">
+        <div style="flex-grow: 1;">
+            <h3 style="margin: 0; color: #333; font-size: 20px; font-weight: 700;">Zhejiang Yiliu Network Technology Co.</h3>
+            <p style="font-size: 16px; color: #555; margin: 2px 0;">Software Engineer</p>
+            <p style="font-size: 16px; color: #666;">Developed a license plate recognition system and optimized an e-commerce platform to improve performance and user experience.</p>
+        </div>
+        <img src="images/ph66.jpg" alt="Yiliu Tech Logo" style="width: 100px; margin-left: 20px;">
     </div>
 </div>
+
+
+
 
 *You can click on the top navigation bar to browse the sections you are interested in. This site is continuously updated with my latest projects and professional experiences. Stay tuned!*
