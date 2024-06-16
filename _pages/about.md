@@ -57,11 +57,12 @@ redirect_from:
     </div>
 </div>
 
+<hr>
 <div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #f4f4f9; padding: 10px 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-top: 20px;">
     <h2 style="color: #2E86C1; font-size: 24px; font-weight: 600; margin-top: 10px;">Hobbies</h2>
     <p style="font-size: 16px; color: #666;"> I have a diverse range of hobbies that keep me active and creatively engaged. Basketball is one of my favorite sports; I love the fast-paced nature of the game and the teamwork involved. Photography is another passion of mine. Capturing fleeting moments and beautiful landscapes allows me to express myself artistically and preserve memories. Swimming is my go-to for relaxation and fitness. It's a great way to unwind and maintain physical health. Additionally, I play the erhu, a traditional Chinese two-stringed instrument. It's a practice that connects me with my cultural heritage and enhances my musical skills.
     </p>
 </div>
-
+<hr>
 
 *You can click on the top navigation bar to browse the sections you are interested in. This site is continuously updated with my latest projects and professional experiences. Stay tuned!*
