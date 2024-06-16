@@ -13,7 +13,7 @@ redirect_from:
         <strong style="color: #333; font-weight: 700;">Feiyang Yu</strong> is currently advancing his <strong style="font-weight: 700;">Master of Engineering</strong> in <em style="color: #2E86C1;">Electrical and Computer Engineering</em> at <strong>Duke University</strong>, with an anticipated graduation in <strong>2024</strong>. His strong foundation in software development and engineering research has led him to impactful projects, including FPGA software and design at <strong>Lattice Semiconductor</strong>. Feiyang's academic pursuits focus on <strong>computer architecture</strong> and <strong>storage architecture</strong>, alongside exploring the cutting-edge applications of <strong>deep learning</strong>.
     </p>
     <p style="font-size: 16px; line-height: 1.8; color: #333;">
-        Outside the realms of his professional and academic life, Feiyang pursues his passion for <strong style="font-weight: 700;">photography</strong>. His creative outlet finds expression in capturing the nuanced details and overarching beauty of his surroundings, offering a visual feast that narrates his personal experiences.
+        I received my bachalor's degree in Computer Science in 2022. During my undergraduate studies, I acquired foundational knowledge in **Operating Systems**, **Networks**, and **Databases**, crucial for my development as a **full stack developer**. These courses provided the technical skills necessary for optimizing software performance, managing data, and understanding system and network communications.
     </p>
 </div>
 
@@ -57,7 +57,11 @@ redirect_from:
     </div>
 </div>
 
-
+<div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #f4f4f9; padding: 10px 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-top: 20px;">
+    <h2 style="color: #2E86C1; font-size: 24px; font-weight: 600; margin-top: 10px;">Hobbies</h2>
+    <p style="font-size: 16px; color: #666;"> I have a diverse range of hobbies that keep me active and creatively engaged. Basketball is one of my favorite sports; I love the fast-paced nature of the game and the teamwork involved. Photography is another passion of mine. Capturing fleeting moments and beautiful landscapes allows me to express myself artistically and preserve memories. Swimming is my go-to for relaxation and fitness. It's a great way to unwind and maintain physical health. Additionally, I play the erhu, a traditional Chinese two-stringed instrument. It's a practice that connects me with my cultural heritage and enhances my musical skills.
+    </p>
+</div>
 
 
 *You can click on the top navigation bar to browse the sections you are interested in. This site is continuously updated with my latest projects and professional experiences. Stay tuned!*
