@@ -13,7 +13,7 @@ redirect_from:
         <strong style="color: #333; font-weight: 700;">Feiyang Yu</strong> is currently advancing his <strong style="font-weight: 700;">Master of Engineering</strong> in <em style="color: #2E86C1;">Electrical and Computer Engineering</em> at <strong>Duke University</strong>, with an anticipated graduation in <strong>2024</strong>. His strong foundation in software development and engineering research has led him to impactful projects, including FPGA software and design at <strong>Lattice Semiconductor</strong>. Feiyang's academic pursuits focus on <strong>computer architecture</strong> and <strong>storage architecture</strong>, alongside exploring the cutting-edge applications of <strong>deep learning</strong>.
     </p>
     <p style="font-size: 16px; line-height: 1.8; color: #333;">
-        I received my bachalor's degree in Computer Science in 2022. During my undergraduate studies, I acquired foundational knowledge in **Operating Systems**, **Networks**, and **Databases**, crucial for my development as a **full stack developer**. These courses provided the technical skills necessary for optimizing software performance, managing data, and understanding system and network communications.
+        I received my bachalor's degree in Computer Science in 2022. During my undergraduate studies, I acquired foundational knowledge in <strong>Operating Systems</strong>, <strong>Networks</strong>, and <strong>Databases</strong>, crucial for my development as a <strong>full stack developer</strong>. These courses provided the technical skills necessary for optimizing software performance, managing data, and understanding system and network communications.
     </p>
 </div>
 
