@@ -4,7 +4,7 @@ excerpt: "A detailed exploration of my Reverse-SSH Filesystem project, allowing 
 collection: portfolio
 ---
 
-# Reverse-SSH Filesystem
+
 
 This project showcases my Reverse-SSH Filesystem, a sophisticated system designed to facilitate secure file access over SSH. This solution not only enhances security but also improves the accessibility of files across different systems without direct network exposure.
 

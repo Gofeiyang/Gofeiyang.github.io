@@ -4,7 +4,7 @@ excerpt: "An overview of my RAID Implementation project, focusing on RAID0 and R
 collection: portfolio
 ---
 
-# RAID Implementation
+
 
 This portfolio entry delves into my RAID Implementation project, where I designed and developed drivers for RAID0 and RAID4 systems. The project aimed to enhance data storage solutions through fault tolerance and improved performance.
 

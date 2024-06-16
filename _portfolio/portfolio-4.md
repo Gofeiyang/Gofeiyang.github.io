@@ -4,7 +4,6 @@ excerpt: "An overview of our award-winning project at the Next AI Hackathon, whi
 collection: portfolio
 ---
 
-# Next AI Hackathon: Enhancing courses selection procedure with AI
 
 Last month, I had the remarkable opportunity to participate in the Next AI Hackathon, where we not only challenged the limits of what we can achieve with artificial intelligence but also received prestigious recognitions for our efforts. Our team was awarded Winner for our Product Demo and received Honorable Mentions for Global Product Design—a testament to our innovative approach and the potential of our solution.
 

@@ -1,10 +1,10 @@
 ---
 title: "Mini-TikTok"
-excerpt: "An exploration of my Mini-TikTok project, a simplified version of the popular video-sharing platform.<br/><img src='/images/mini-tiktok.png'>"
+excerpt: "An exploration of my Mini-TikTok project, a simplified version of the popular video-sharing platform.<br/><img src='/images/tiktok.jpg'>"
 collection: portfolio
 ---
 
-# Mini-TikTok
+
 
 This project is a scaled-down version of the popular social media app TikTok, designed to demonstrate the core functionalities of video sharing, user interactions, and content management. The Mini-TikTok platform allows users to upload, view, and interact with videos in a streamlined interface.
 
