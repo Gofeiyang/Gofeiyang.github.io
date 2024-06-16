@@ -1,6 +1,6 @@
 ---
 title: "Mini-TikTok"
-excerpt: "An exploration of my Mini-TikTok project, a simplified version of the popular video-sharing platform.<br/><img src='/images/tiktok.jpg' width='300' height='150'>"
+excerpt: "An exploration of my Mini-TikTok project, a simplified version of the popular video-sharing platform.<br/><img src='/images/tiktok.jpg' width='500' height='300'>"
 collection: portfolio
 ---
 

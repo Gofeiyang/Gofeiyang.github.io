@@ -1,6 +1,6 @@
 ---
 title: "Next AI Hackathon: Award-Winning AI Solution"
-excerpt: "An overview of our award-winning project at the Next AI Hackathon, which focused on enhancing online education platforms using AI.<br/><img src='/images/hack.png' width='300' height='150'>"
+excerpt: "An overview of our award-winning project at the Next AI Hackathon, which focused on enhancing online education platforms using AI.<br/><img src='/images/hack.png' width='500' height='300'>"
 collection: portfolio
 ---
 
