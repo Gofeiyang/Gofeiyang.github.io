@@ -24,11 +24,11 @@ redirect_from:
     <h2 style="color: #2E86C1; font-size: 24px; font-weight: 600; margin-top: 10px;">Education</h2>
     <p style="font-size: 16px; line-height: 1.8; color: #333;">
         <strong>Master of Engineering in Electrical and Computer Engineering</strong><br>
-        <em>Duke University</em> — Anticipated Graduation 2024
+        <em>Duke University</em>
     </p>
     <p style="font-size: 16px; line-height: 1.8; color: #333;">
         <strong>Bachelor of Science in Computer Science</strong><br>
-        <em>Hangzhou Dianzi University</em> — Graduated with Honors
+        <em>Hangzhou Dianzi University</em>
     </p>
 </div>
 
