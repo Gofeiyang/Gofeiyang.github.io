@@ -1,6 +1,6 @@
 ---
 title: "Reverse-SSH Filesystem"
-excerpt: "A detailed exploration of my Reverse-SSH Filesystem project, allowing secure remote file access over SSH.<br/><img src='/images/ssh.jpg' width='500' height='300'>"
+excerpt: "A detailed exploration of my Reverse-SSH Filesystem project, allowing secure remote file access over SSH.<br/><img src='/images/ssh.jpg' width='500' height='150'>"
 collection: portfolio
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "RAID Implementation"
-excerpt: "An overview of my RAID Implementation project, focusing on RAID0 and RAID4 configurations.<br/><img src='/images/raid.jpg' width='500' height='300'>"
+excerpt: "An overview of my RAID Implementation project, focusing on RAID0 and RAID4 configurations.<br/><img src='/images/raid.jpg' width='500' height='150'>"
 collection: portfolio
 ---
 
